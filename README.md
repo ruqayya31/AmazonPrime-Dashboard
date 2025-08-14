@@ -34,12 +34,6 @@ Microsoft Excel – for data cleaning
 GitHub – for project sharing
 
 
-📷 Dashboard Preview
-
-(Add your screenshots in the screenshots/ folder and link them here)
-Example:
-
-
 📈 Key Insights
 
 Total titles on Amazon Prime
